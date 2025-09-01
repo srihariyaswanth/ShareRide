@@ -45,23 +45,4 @@ Contact driver (feature pending)
 Profile management
 View posted rides
 Delete or update a ride
-🗂️ Project Structure
-ShareRide/
-├── client/               # Frontend (React + Vite)
-│   ├── public/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── App.jsx
-│   │   └── main.jsx
-│   └── package.json
-│
-├── server/               # Backend (Express + MongoDB)
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   ├── .env
-│   ├── server.js
-│   └── package.json
-│
-└── README.md
+
